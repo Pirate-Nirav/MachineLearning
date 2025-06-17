@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,City,Income,Education,Purchase_Date,Product_Category,Target
+1,Alice,25,Male,New York,50000,High School,2023-01-15,Electronics,1
+2,Bob,30,Female,London,60000,Bachelor’s,2023-02-20,Clothing,0
+3,Charlie,35,Male,Paris,75000,Master’s,2023-03-10,Books,1
+4,Diana,,Female,Tokyo,45000,Bachelor’s,2023-04-05,Electronics,0
+5,Emma,28,Male,New York,52000,High School,2023-05-12,Clothing,1
+6,Frank,40,Female,London,,Master’s,2023-06-18,Books,1
+7,Grace,32,Male,Paris,68000,Bachelor’s,2023-07-22,Electronics,0
+8,Henry,27,Female,Tokyo,47000,High School,2023-08-30,Clothing,1
+9,Isabella,45,Male,New York,80000,Master’s,2023-09-14,Books,0
+10,Jack,33,Female,London,55000,Bachelor’s,2023-10-01,Electronics,1
+11,Kate,29,Male,Paris,62000,High School,2023-11-05,Clothing,0
+12,Liam,,Female,Tokyo,49000,Bachelor’s,2023-12-10,Books,1
+13,Mia,38,Male,New York,72000,Master’s,2024-01-20,Electronics,0
+14,Noah,26,Female,London,51000,High School,2024-02-25,Clothing,1
+15,Olivia,31,Male,Paris,67000,Bachelor’s,2024-03-15,Books,0
+16,Paul,34,Female,Tokyo,,Master’s,2024-04-22,Electronics,1
+17,Quinn,42,Male,New York,78000,High School,2024-05-30,Clothing,0
+18,Rachel,29,Female,London,53000,Bachelor’s,2024-06-10,Books,1
+19,Sam,37,Male,Paris,69000,Master’s,2024-07-15,Electronics,0
+20,Tina,30,Female,Tokyo,56000,High School,2024-08-20,Clothing,1
